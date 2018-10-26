@@ -24,8 +24,9 @@
         <module>good</module>
         <module>manager</module>
         <module>node</module>
-        <module>user</module>
         <module>order</module>
+        <module>ticket</module>
+        <module>user</module>
     </modules>
 
     <dependencies>
