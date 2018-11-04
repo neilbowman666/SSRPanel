@@ -1,4 +1,4 @@
-package org.shadowsocks.ssrpanel.eureka;
+package org.shadowsocks.ssrpanel.cloudeureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

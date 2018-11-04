@@ -1,12 +1,12 @@
-package org.shadowsocks.ssrpanel.eureka;
+package org.shadowsocks.ssrpanel.cloudconfig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EurekaApplication {
+public class CloudConfigApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EurekaApplication.class, args);
+        SpringApplication.run(CloudConfigApplication.class, args);
     }
 }

@@ -20,7 +20,8 @@
 
     <modules>
         <module>client</module>
-        <module>eureka</module>
+        <module>cloudconfig</module>
+        <module>cloudeureka</module>
         <module>good</module>
         <module>manager</module>
         <module>node</module>
