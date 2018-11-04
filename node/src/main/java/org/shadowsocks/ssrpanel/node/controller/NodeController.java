@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class NodeController {
 
     @GetMapping("/ssrnode")
-    public SSRNode getSSRNode(){
+    public SSRNode getSSRNode() {
         return null;
     }
 

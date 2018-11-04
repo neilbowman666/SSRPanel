@@ -5,7 +5,7 @@ import java.sql.Timestamp;
 import java.util.Objects;
 
 /**
- *  User Entity
+ * User Entity
  */
 @Entity
 public class User {
